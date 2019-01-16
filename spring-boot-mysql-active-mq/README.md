@@ -1,4 +1,4 @@
-# Spring Boot ActiveMQ Example
+# Spring Boot ActiveMQ MySql
 
 To run this example, you will need to do the following:
 
