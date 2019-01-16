@@ -16,6 +16,17 @@ https://github.com/mustafamym/jms-activemq-message-consumer-example
 
 https://github.com/TechPrimers/standalone-spring-boot-activemq-example
 
+To install MySql on Ubuntu:
+
+https://www.digitalocean.com/community/tutorials/como-instalar-o-mysql-no-ubuntu-18-04-pt
+
+https://www.linode.com/docs/databases/mysql/install-and-configure-mysql-workbench-on-ubuntu/
+
+
+I had some problems with connection, and I run this command below, the password you have to change for your password:
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'admin123';
+
 
 To run this example, you will need to do the following:
 
