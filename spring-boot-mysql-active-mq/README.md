@@ -1,5 +1,22 @@
 # Spring Boot ActiveMQ MySql
 
+To create this example I used several examples that I found on the internet:
+
+https://memorynotfound.com/spring-boot-embedded-activemq-configuration-example/
+
+https://www.devglan.com/spring-boot/spring-boot-jms-activemq-example
+
+https://www.onlinetutorialspoint.com/spring-boot/external-apache-activemq-spring-boot-example.html
+
+https://grokonez.com/java-integration/distributed-system/activemq-producer-consumer-springboot-restapis-example
+
+https://receitasdecodigo.com.br/spring-boot/exemplo-de-projeto-com-spring-boot-jms-activemq-usando-filas-e-topicos
+
+https://github.com/mustafamym/jms-activemq-message-consumer-example
+
+https://github.com/TechPrimers/standalone-spring-boot-activemq-example
+
+
 To run this example, you will need to do the following:
 
 * Update the application.properties file with your MySQL username and password
